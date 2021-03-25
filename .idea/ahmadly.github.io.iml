@@ -12,19 +12,25 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.7.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="backports (v3.20.2, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.2.15, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="colorator (v1.1.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.8, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="em-websocket (v0.5.2, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="eventmachine (v1.2.7, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday (v1.3.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday-net_http (v1.0.1, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="forwardable-extended (v2.6.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="http_parser.rb (v0.6.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.9, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jekyll (v4.2.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-admin (v0.11.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jekyll-feed (v0.15.1, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-github-metadata (v2.13.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jekyll-sass-converter (v2.1.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jekyll-seo-tag (v2.7.1, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-sitemap (v1.4.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jekyll-watch (v2.2.1, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="kramdown (v2.3.1, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="kramdown-parser-gfm (v1.1.0, ruby-2.6.3-p62) [gem]" level="application" />
@@ -32,15 +38,26 @@
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.5.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mercenary (v0.4.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minima (v2.5.1, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.15.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.1.1, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="octokit (v4.20.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pathutil (v0.16.2, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.6, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.13, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.5.5, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.10.4, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.10.1, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.4, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rouge (v3.26.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby2_keywords (v0.0.4, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="safe_yaml (v1.0.5, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sawyer (v0.8.2, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.8, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra-contrib (v1.4.7, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="terminal-table (v2.0.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.10, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v1.7.0, ruby-2.6.3-p62) [gem]" level="application" />
   </component>
 </module>

@@ -30,9 +30,12 @@ twitter_username: ahmadly
 github_username: ahmadly
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
